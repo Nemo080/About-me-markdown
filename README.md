@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Nishat and I'm a fellow from The Knowledge House.</p>
+<p align="left">My name is Nishat and I'm a fellow from The Knowledge House</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Create my own fun interactive website<br>🎲 Fun fact: I love watching Korean dramas. I am currently watching Twinkling Watermelon and The Kidnapping Day.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript and practicing HTML and CSS<br>🎯 Goals: Create my own fun interactive website<br>🎲 Fun fact: I love watching Korean dramas. I am currently watching Twinkling Watermelon and The Kidnapping Day</p>
 
 ###
 
